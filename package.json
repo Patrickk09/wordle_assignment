@@ -1,5 +1,5 @@
 {
-  "name": "reacdle",
+  "name": "wordle",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
